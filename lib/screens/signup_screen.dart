@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:streaming_app/widgets/custom_button.dart';
 import 'package:streaming_app/widgets/custom_textfield.dart';
 
@@ -67,7 +65,7 @@ class _SignupScreenState extends State<SignupScreen> {
                 ),
               ),
               Padding(
-                padding: const EdgeInsets.symmetric(vertical: 8.0),
+                padding: const EdgeInsets.symmetric(vertical: 7.0),
                 child: CustomTextField(
                   controller: _passwordController,
                 ),

@@ -16,17 +16,18 @@ class CustomTextField extends StatelessWidget {
       onSubmitted: onTap,
       controller: controller,
       decoration: const InputDecoration(
-          focusedBorder: OutlineInputBorder(
-            borderSide: BorderSide(
-              color: buttonColor,
-              width: 2,
-            ),
+        focusedBorder: OutlineInputBorder(
+          borderSide: BorderSide(
+            color: buttonColor,
+            width: 2,
           ),
-          enabledBorder: OutlineInputBorder(
-            borderSide: BorderSide(
-              color: secondaryBackgroundColor,
-            ),
-          )),
+        ),
+        enabledBorder: OutlineInputBorder(
+          borderSide: BorderSide(
+            color: secondaryBackgroundColor,
+          ),
+        ),
+      ),
     );
   }
 }
