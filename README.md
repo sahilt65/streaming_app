@@ -1,16 +1,6 @@
 # streaming_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• The "Streamer” application offers an intuitive interface, facilitating effortless navigation for both creators and viewers.
+• With seamless live streaming capabilities, users can engage in real-time interaction, fostering a dynamic experience.
+• The curated stream list enables easy exploration of diverse content, while the integrated chat feature encourages community engagement.
+• Implemented advanced streaming options such as screen sharing or multi-camera setups for versatile content creation.
